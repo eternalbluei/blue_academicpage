@@ -40,7 +40,7 @@ social:
   link: '/#contact'
 - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://orcid.org/0000-0001-6655-8179
 - icon: github
   icon_pack: fab
   link: https://github.com/lxyeternal
@@ -61,4 +61,8 @@ highlight_name: true
 
 Wenbo Guo graduated from the School of Cyberspace Security of Sichuan University. His research interests include vulnerability mining, network attack and defense. He used to study in the Web group of the Institute of Information Security.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+During the master's stage, he participated in many projects of his mentor, including the National Natural Science Foundation of China, the provincial science and technology department project, etc., and served as the project leader for many times to ensure the quality and quantity of the project to be completed. During his studies, many of his courses completed with excellent grades, with an average score of over 90/100.
+
+He served as a monitor and a part-time counselor in the grade, assisting the counselors in their daily work, and distributing anti-epidemic materials to students during the epidemic.
+
+<!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}. -->

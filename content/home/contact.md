@@ -16,23 +16,23 @@ content:
   autolink: true
   
   # Email form provider
-  form:
-    provider: netlify
-    formspree:
-      id:
-    netlify:
-      # Enable CAPTCHA challenge to reduce spam?
-      captcha: false
+  # form:
+  #   provider: netlify
+  #   formspree:
+  #     id:
+  #   netlify:
+  #     # Enable CAPTCHA challenge to reduce spam?
+  #     captcha: false
 
   # Contact details (edit or remove options as required)
   email: honywenair@163.com
   phone: 
   address:
     street: 
-    city: 
-    region: 
+    city: Sichuan
+    region: Chengdu
     postcode: 
-    country: 
+    country: China
     country_code: 
   coordinates:
     latitude: 

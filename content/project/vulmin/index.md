@@ -1,13 +1,15 @@
 ---
 title: Vulnerability mining research for open source communities
-summary: An example of using the in-built project page.
+summary: This project studies the security of source code fragments in open source communities, extracts the core code associated with vulnerabilities through program slicing techniques, and constructs a BiLSTM model for malicious code detection. The text features of posts are also constructed using TF-IDF to train OVO SVMs models for vulnerability code type identification.
 tags:
 - Deep Learning
 - Open Source
 - Graph Neural Network
 - Code Representation
+- Vulnerability Mining
 - Program Slices
-date: "2016-04-27T00:00:00Z"
+
+date: "2020-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -16,13 +18,13 @@ image:
   caption: Photo by rawpixel on Unsplash
   focal_point: Smart
 
-links:
-- icon: twitter
-  icon_pack: fab
-  name: Follow
-  url: https://twitter.com/georgecushen
+# links:
+# - icon: twitter
+#   icon_pack: fab
+#   name: Follow
+#   url: https://twitter.com/georgecushen
 url_code: ""
-url_pdf: ""
+url_pdf: "https://1drv.ms/b/s!AoqulfGeUkjqhOB3B7yMM1Eo_7Y4hQ?e=f13zz9"
 url_slides: ""
 url_video: ""
 
@@ -34,12 +36,21 @@ url_video: ""
 slides: 
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+**Role**: Project Leader.
 
-Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.
+**Participation**: Responsible for all aspects of the project, including data collection, data cleaning, program slicing, model building, system implementation, etc.
 
-Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.
+**Research Background**: In the software lifecycle, most of the vulnerabilities come from the development phase. In the process of completing software development, developers will largely copy some code through some open source communities including StackOverFlow, GitHub to complete a specific function, but few people will consider whether the code on it is safe, if some attackers maliciously upload some code or programs containing vulnerabilities, and developers do not carefully review the direct reference to their own software If some attackers maliciously upload some code or programs containing vulnerabilities, and the developers do not carefully review them and directly refer to their software, then it is very likely to leave a fatal vulnerability.
 
-Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.
+**Research purposes**: Research on vulnerability detection of Python code snippets for the open source community to assist users in secure development.
 
-Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.
+
+**Research Method**: The source code and text files are extracted separately for the posts in the open source community, and the redundant code is removed using program slicing techniques to extract the core code associated with the vulnerability and build a BiLSTM model for malicious code detection. At the same time, we use TF-IDF to construct text features of posts and train OVO SVMs models for vulnerability code type identification. The results of the combined two modules can achieve the identification and type determination of vulnerabilities.
+
+
+**Project Features**: 
+- A new approach to vulnerability mining by fusing code detection and context analysis
+- Program slicing techniques for code snippets
+
+**Research Results**: We have implemented PyVul, a Python code snippets detection system for the open source community, which can achieve 85% accuracy and also successfully detects a lot of vulnerable code existing in the open source community.
+

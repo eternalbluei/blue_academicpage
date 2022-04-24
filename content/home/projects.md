@@ -7,7 +7,7 @@ widget: portfolio
 headless: true
 
 # Order that this section appears on the page.
-weight: 65
+weight: 55
 
 title: Projects
 subtitle: ''
@@ -29,6 +29,10 @@ content:
     tag: '*'
   - name: Deep Learning
     tag: Deep Learning
+  - name: Vulnerability Mining
+    tag: Vulnerability Mining
+  - name: Development
+    tag: Android Development
   - name: Other
     tag: Demo
 
