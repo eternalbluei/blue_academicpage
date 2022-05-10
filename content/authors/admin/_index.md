@@ -65,4 +65,4 @@ During the master's stage, he participated in many projects of his mentor, inclu
 
 He served as a monitor and a part-time counselor in the grade, assisting the counselors in their daily work, and distributing anti-epidemic materials to students during the epidemic.
 
-<!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}. -->
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resume{{< /staticref >}}.
