@@ -21,7 +21,7 @@ links:
 #   icon_pack: fab
 #   name: Follow
 #   url: 
-url_code: "https://github.com/lxyeternal/Express-android"
+url_code: ""
 url_pdf: ""
 url_slides: ""
 url_video: ""
@@ -44,11 +44,3 @@ publication: 2021block
 **Research Method**: Firstly, we use crawlers to collect the content of websites and related information to build the dataset, and for inaccessible websites, we use snapshot websites to collect them. Then the collected data were preprocessed to get the blacklist and whitelist data that meet the requirements. After statistical analysis, we select features such as text keywords, search engines, website rankings (e.g. Alexa ranking), domain names and mainstream transactions to generate feature vectors as inputs for the detection model, and finally construct a random forest model for detection.
 
 **Research Results**: We have implemented a digital currency fraud website detection system, which can effectively detect suspicious digital currency websites. Compared with the existing Tencent detection engine, our system can detect many websites that it cannot detect.
-
-**System Show**: 
-
-![block2.png](https://s2.loli.net/2022/04/24/SWNjgxaihr3Xzle.png)
-
-![block1.png](https://s2.loli.net/2022/04/24/veGkpBwZc4uJOLX.png)
-
-![block3.png](https://s2.loli.net/2022/04/24/cVbo56N9GHQTew7.png)

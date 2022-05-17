@@ -45,6 +45,3 @@ Project function:
 - Payload exploit: launch attacks on specified targets, rebound shells, etc.
 - Permissions management: division of the user's permission to use the tool.
 - Information display: Using a large visualization screen to show the results of the scan and the use of the system.
-
-
-**Function Show**: 

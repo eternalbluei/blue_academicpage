@@ -47,13 +47,3 @@ slides: threatminer
 - Key hacker identification based on graph structure
 
 **Research Results**: In the process of mining the threat intelligence of hacker forums, the system has successfully mined several cyber threats that exist in hacker forums, such as the spread of the 2.0 upgraded version of Trojan IP Killer, the transaction of credit card CVV by Russian hacker groups, and the DDOS attack on Cloudflare by hacker groups, etc. This result proves that there is a large amount of threat intelligence, and this project can effectively extract and analyze the threat intelligence of hacker forums.
-
-**System Show**:
-
-![hacker2.jpg](https://s2.loli.net/2022/04/24/MXAlpbYSuwQ3dPx.jpg)
-
-![hacker3.jpg](https://s2.loli.net/2022/04/24/2n9PxFDl7NWUBgk.jpg)
-
-![hacker4.jpg](https://s2.loli.net/2022/04/24/MfxFZtjrcJyTYew.jpg)
-
-![hacker1.jpg](https://s2.loli.net/2022/04/24/VYMEbcZ9dhKfqWr.jpg)

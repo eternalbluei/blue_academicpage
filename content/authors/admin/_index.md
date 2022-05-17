@@ -59,10 +59,7 @@ email: "honywenair@163.com"
 highlight_name: true
 ---
 
-Wenbo Guo graduated from the School of Cyberspace Security of Sichuan University. His research interests include vulnerability mining, network attack and defense. He used to study in the Web group of the Institute of Information Security.
+Wenbo Guo graduated from the School of Cyberspace Security of Sichuan University. His research interests include vulnerability mining, network attack and defense. He used to study in the Web group of the Institute of Information Security. His academic advisors are Prof. Yong Fang and [Prof. Cheng Huang](https://chenghuang.org/).
 
-During the master's stage, he participated in many projects of his mentor, including the National Natural Science Foundation of China, the provincial science and technology department project, etc., and served as the project leader for many times to ensure the quality and quantity of the project to be completed. During his studies, many of his courses completed with excellent grades, with an average score of over 90/100.
-
-He served as a monitor and a part-time counselor in the grade, assisting the counselors in their daily work, and distributing anti-epidemic materials to students during the epidemic.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resume{{< /staticref >}}.

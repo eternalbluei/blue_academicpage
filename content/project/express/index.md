@@ -23,7 +23,7 @@ links:
 url_code: "https://github.com/lxyeternal/Express-android"
 url_pdf: ""
 url_slides: ""
-url_video: "https://1drv.ms/v/s!AoqulfGeUkjqhPJ967ehTZZJomjByQ?e=6Fk6mE"
+url_video: ""
 
 # Slides (optional).
 #   Associate this project with Markdown slides.
