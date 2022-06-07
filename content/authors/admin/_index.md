@@ -62,4 +62,4 @@ highlight_name: true
 Wenbo Guo graduated from the School of Cyberspace Security of Sichuan University. His research interests include vulnerability mining, network attack and defense. He used to study in the Web group of the Institute of Information Security. His academic advisors are Prof. Yong Fang and [Prof. Cheng Huang](https://chenghuang.org/).
 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resume{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/WenboGuo_CV.pdf" "newtab" >}}CV{{< /staticref >}}.
