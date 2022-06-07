@@ -54,6 +54,18 @@ item:
   title: “Outstanding graduates of 2020”
   url: ""
 - certificate_url: 
+  date_start: "2019-10-02"
+  description: ""
+  organization: Sichuan University
+  title: “First Prize of "Internet +" Innovation and Entrepreneurship Competition”
+  url: ""
+- certificate_url: 
+  date_start: "2019-09-19"
+  description: ""
+  organization: Steering Committee of Cyberspace Security in Higher Education Schools, Ministry of Education
+  title: “Second Prize of the National Student Cybersecurity Training Camp”
+  url: ""
+- certificate_url: 
   date_start: "2019-08-16"
   description: ""
   organization: Steering Committee of Cyberspace Security in Higher Education Schools, Ministry of Education
@@ -63,7 +75,7 @@ item:
   date_start: "2018-11-24"
   description: ""
   organization: Shanghai Municipal Education Commission
-  title: “Third Prize of the 4th Shanghai Student Network Security Competition”
+  title: “Third Prize of the 4th Shanghai Student Cybersecurity Competition”
   url: ""
 
 
