@@ -33,7 +33,7 @@ item:
   date_start: "2021-10-15"
   description: ""
   organization: Sichuan University
-  title: “Outstanding Graduate Student Officer”
+  title: “Outstanding Graduate Class Cadres”
   url: ""
 - certificate_url: 
   date_start: "2019-12-12"
@@ -41,18 +41,18 @@ item:
   organization: Chinese Ministry of Education
   title: “National Inspirational Scholarship”
   url: ""
-- certificate_url: 
-  date_start: "2019-10-15"
-  description: ""
-  organization: Ting Hsin Charity Foundation
-  title: “Ting Hsin Sunrise Scholarship”
-  url: ""
-- certificate_url: 
-  date_start: "2019-10-08"
-  description: ""
-  organization: Sichuan University
-  title: “Outstanding graduates of 2020”
-  url: ""
+# - certificate_url: 
+#   date_start: "2019-10-15"
+#   description: ""
+#   organization: Ting Hsin Charity Foundation
+#   title: “Ting Hsin Sunrise Scholarship”
+#   url: ""
+# - certificate_url: 
+#   date_start: "2019-10-08"
+#   description: ""
+#   organization: Sichuan University
+#   title: “Outstanding graduates of 2020”
+#   url: ""
 - certificate_url: 
   date_start: "2019-10-02"
   description: ""
