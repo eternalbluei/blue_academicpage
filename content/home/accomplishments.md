@@ -24,6 +24,12 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
 - certificate_url: 
+  date_start: "2022-05-28"
+  description: ""
+  organization: Sichuan University
+  title: “Sichuan University OPPO-CTF Competition Winner”
+  url: ""
+- certificate_url: 
   date_start: "2021-12-25"
   description: ""
   organization: Sichuan University
@@ -47,12 +53,12 @@ item:
 #   organization: Ting Hsin Charity Foundation
 #   title: “Ting Hsin Sunrise Scholarship”
 #   url: ""
-# - certificate_url: 
-#   date_start: "2019-10-08"
-#   description: ""
-#   organization: Sichuan University
-#   title: “Outstanding graduates of 2020”
-#   url: ""
+- certificate_url: 
+  date_start: "2019-10-08"
+  description: ""
+  organization: Sichuan University
+  title: “Outstanding graduates of 2020”
+  url: ""
 - certificate_url: 
   date_start: "2019-10-02"
   description: ""
