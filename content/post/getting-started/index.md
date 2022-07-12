@@ -29,7 +29,7 @@ featured: false
 #   preview_only: false
 
 authors:
-- Computers & Security(Second Review)
+- Computers & Security(Accepted)
 
 tags:
 - Code Representation
